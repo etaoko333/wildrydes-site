@@ -1,7 +1,7 @@
 window._config = {
     cognito: {
-        userPoolId: 'us-east-1_Dj19VcPAx', // Your User Pool ID
-        userPoolClientId: '5ogl71src36ofekrfbdd9j5nlv', // Your User Pool Client ID
+        userPoolId: 'us-east-1_c4F61ushZ', // Your User Pool ID
+        userPoolClientId: '6haset79jln1n5jrejqu1l8ibi', // Your User Pool Client ID
         region: 'us-east-1' // Your AWS region
     }
 };
