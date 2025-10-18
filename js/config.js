@@ -6,7 +6,8 @@ window._config = {
     }
 };
     api: {
-        invokeUrl: '' // e.g. https://rc7nyt4tql.execute-api.us-west-2.amazonaws.com/prod',
+        invokeUrl: 'https://z3o0uiic04.execute-api.us-east-1.amazonaws.com/QA'
     }
 };
+
 
